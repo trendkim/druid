@@ -19,7 +19,7 @@
     "node-sass": "^4.13.1"
   },
   "dependencies": {
-    "fast-glob": "^3.2.2",
+    "fast-glob": "^3.3.3",
     "fs-extra": "^8.1.0",
     "replace-in-file": "^4.3.1"
   }
